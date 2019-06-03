@@ -6,3 +6,4 @@ bool fix=true;
 public string getName() {}
 
 public int getPLZ(){}
+public int lgvonLukas
