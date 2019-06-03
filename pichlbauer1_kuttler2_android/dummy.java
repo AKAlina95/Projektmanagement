@@ -6,3 +6,5 @@ bool fix=true;
 public string getName() {}
 
 public int getPLZ(){}
+
+static public void GetForked(){}
